@@ -55,7 +55,6 @@ Edge Layer → Cloud Pipeline → AI Analysis → Product Interface
 
 ## 📊 Project Metrics
 
-- Score: 9.6/10 (production-ready quality)
 - Architecture: 5-layer pipeline (Energy → Sensing → Edge → Cloud → Product)
 - AI Confidence: 87% average accuracy
 - Response Time: Real-time detection with smart alert prioritization
@@ -66,21 +65,7 @@ Edge Layer → Cloud Pipeline → AI Analysis → Product Interface
 - Node.js 18+
 - npm or yarn
 
-### Installation
 
-```bash
-# Clone repository
-git clone https://github.com/MB2702/solarpulse-portfolio.git
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ## 📝 Project Context
 
